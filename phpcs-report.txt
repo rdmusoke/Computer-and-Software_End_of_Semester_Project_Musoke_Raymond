@@ -1,0 +1,2232 @@
+
+FILE: C:\xampp\htdocs\bWAPP\admin\phpinfo.php
+----------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+----------------------------------------------------------------------
+ 19 | WARNING | phpinfo() function detected
+----------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\aim.php
+--------------------------------------------------------------------------------
+FOUND 2 ERRORS AFFECTING 2 LINES
+--------------------------------------------------------------------------------
+ 43 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+    |       | echo
+ 45 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+    |       | echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\backdoor.php
+--------------------------------------------------------------------------------
+FOUND 3 ERRORS AND 2 WARNINGS AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 1 | WARNING | Filesystem function move_uploaded_file() detected with dynamic
+   |         | parameter
+ 1 | ERROR   | Filesystem function move_uploaded_file() detected with dynamic
+   |         | parameter directly from user input
+ 1 | WARNING | Filesystem function chmod() detected with dynamic parameter
+ 1 | ERROR   | HTML construction with direct user input $_SERVER detected.
+ 1 | ERROR   | Easy XSS detected because of direct user input with $_SERVER on
+   |         | echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\ba_captcha_bypass.php
+--------------------------------------------------------------------------------
+FOUND 3 ERRORS AFFECTING 3 LINES
+--------------------------------------------------------------------------------
+ 150 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 194 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 215 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\ba_forgotten.php
+--------------------------------------------------------------------------------
+FOUND 3 ERRORS AFFECTING 3 LINES
+--------------------------------------------------------------------------------
+ 289 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 332 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 353 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\ba_insecure_login_1.php
+--------------------------------------------------------------------------------
+FOUND 3 ERRORS AFFECTING 3 LINES
+--------------------------------------------------------------------------------
+ 210 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 249 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 270 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\ba_insecure_login_2.php
+--------------------------------------------------------------------------------
+FOUND 4 ERRORS AFFECTING 4 LINES
+--------------------------------------------------------------------------------
+ 203 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 211 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 298 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 319 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\ba_insecure_login_3.php
+--------------------------------------------------------------------------------
+FOUND 3 ERRORS AFFECTING 3 LINES
+--------------------------------------------------------------------------------
+ 210 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 252 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 273 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\ba_logout.php
+--------------------------------------------------------------------------------
+FOUND 2 ERRORS AFFECTING 2 LINES
+--------------------------------------------------------------------------------
+ 105 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 126 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\ba_pwd_attacks_1.php
+--------------------------------------------------------------------------------
+FOUND 3 ERRORS AFFECTING 3 LINES
+--------------------------------------------------------------------------------
+ 210 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 250 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 271 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\ba_pwd_attacks_2.php
+--------------------------------------------------------------------------------
+FOUND 3 ERRORS AFFECTING 3 LINES
+--------------------------------------------------------------------------------
+ 226 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 268 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 289 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\ba_pwd_attacks_3.php
+--------------------------------------------------------------------------------
+FOUND 3 ERRORS AFFECTING 3 LINES
+--------------------------------------------------------------------------------
+ 226 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 272 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 293 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\ba_pwd_attacks_4.php
+--------------------------------------------------------------------------------
+FOUND 3 ERRORS AFFECTING 3 LINES
+--------------------------------------------------------------------------------
+ 222 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 267 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 288 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\ba_weak_pwd.php
+--------------------------------------------------------------------------------
+FOUND 3 ERRORS AFFECTING 3 LINES
+--------------------------------------------------------------------------------
+ 109 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 171 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 192 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\bof_1.php
+--------------------------------------------------------------------------------
+FOUND 3 ERRORS AND 1 WARNING AFFECTING 4 LINES
+--------------------------------------------------------------------------------
+ 111 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+ 141 | WARNING | System program execution function shell_exec() detected with
+     |         | dynamic parameter
+ 181 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+ 202 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\bof_2.php
+--------------------------------------------------------------------------------
+FOUND 2 ERRORS AFFECTING 2 LINES
+--------------------------------------------------------------------------------
+ 109 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 130 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\captcha.php
+-------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+-------------------------------------------------------------------------------
+ 55 | WARNING | Filesystem function imagepng() detected with dynamic parameter
+-------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\clickjacking.php
+--------------------------------------------------------------------------------
+FOUND 3 ERRORS AFFECTING 3 LINES
+--------------------------------------------------------------------------------
+  87 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 145 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 166 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\commandi.php
+--------------------------------------------------------------------------------
+FOUND 3 ERRORS AND 1 WARNING AFFECTING 4 LINES
+--------------------------------------------------------------------------------
+ 111 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+ 140 | WARNING | System program execution function shell_exec() detected with
+     |         | dynamic parameter
+ 173 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+ 194 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\commandi_blind.php
+--------------------------------------------------------------------------------
+FOUND 3 ERRORS AND 2 WARNINGS AFFECTING 5 LINES
+--------------------------------------------------------------------------------
+ 111 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+ 149 | WARNING | System program execution function shell_exec() detected with
+     |         | dynamic parameter
+ 160 | WARNING | System program execution function shell_exec() detected with
+     |         | dynamic parameter
+ 195 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+ 216 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\credits.php
+--------------------------------------------------------------------------------
+FOUND 2 ERRORS AFFECTING 2 LINES
+--------------------------------------------------------------------------------
+ 125 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 146 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\csrf_1.php
+--------------------------------------------------------------------------------
+FOUND 3 ERRORS AND 3 WARNINGS AFFECTING 6 LINES
+--------------------------------------------------------------------------------
+  65 | WARNING | MYSQLi function query() detected with dynamic parameter 
+  93 | WARNING | MYSQLi function query() detected with dynamic parameter 
+ 120 | WARNING | MYSQLi function query() detected with dynamic parameter 
+ 211 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+ 271 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+ 292 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\csrf_2.php
+--------------------------------------------------------------------------------
+FOUND 3 ERRORS AFFECTING 3 LINES
+--------------------------------------------------------------------------------
+ 115 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 165 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 186 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\csrf_3.php
+--------------------------------------------------------------------------------
+FOUND 3 ERRORS AND 2 WARNINGS AFFECTING 5 LINES
+--------------------------------------------------------------------------------
+  64 | WARNING | MYSQLi function query() detected with dynamic parameter 
+ 108 | WARNING | MYSQLi function query() detected with dynamic parameter 
+ 202 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+ 268 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+ 289 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\cs_validation.php
+--------------------------------------------------------------------------------
+FOUND 4 ERRORS AND 2 WARNINGS AFFECTING 6 LINES
+--------------------------------------------------------------------------------
+ 107 | WARNING | MYSQLi function query() detected with dynamic parameter 
+ 134 | WARNING | MYSQLi function query() detected with dynamic parameter 
+ 275 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+ 284 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+ 340 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+ 361 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\directory_traversal_1.php
+--------------------------------------------------------------------------------
+FOUND 2 ERRORS AND 4 WARNINGS AFFECTING 6 LINES
+--------------------------------------------------------------------------------
+ 141 | WARNING | Filesystem function is_file() detected with dynamic parameter
+ 144 | WARNING | Filesystem function fopen() detected with dynamic parameter
+ 146 | WARNING | Filesystem function feof() detected with dynamic parameter
+ 149 | WARNING | Filesystem function fgets() detected with dynamic parameter
+ 327 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+ 348 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\directory_traversal_2.php
+--------------------------------------------------------------------------------
+FOUND 2 ERRORS AND 2 WARNINGS AFFECTING 4 LINES
+--------------------------------------------------------------------------------
+ 140 | WARNING | Filesystem function file_exists() detected with dynamic
+     |         | parameter
+ 143 | WARNING | Filesystem function opendir() detected with dynamic parameter
+ 319 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+ 340 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\functions_external.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 4 WARNINGS AFFECTING 4 LINES
+--------------------------------------------------------------------------------
+ 304 | WARNING | Filesystem function is_file() detected with dynamic parameter
+ 382 | WARNING | Filesystem function is_file() detected with dynamic parameter
+ 463 | WARNING | Filesystem function realpath() detected with dynamic parameter
+ 467 | WARNING | Filesystem function realpath() detected with dynamic parameter
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\heartbleed.php
+--------------------------------------------------------------------------------
+FOUND 2 ERRORS AFFECTING 2 LINES
+--------------------------------------------------------------------------------
+ 107 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 128 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\hostheader_1.php
+--------------------------------------------------------------------------------
+FOUND 5 ERRORS AFFECTING 5 LINES
+--------------------------------------------------------------------------------
+  38 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+  61 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 124 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 164 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 185 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\hostheader_2.php
+--------------------------------------------------------------------------------
+FOUND 3 ERRORS AND 2 WARNINGS AFFECTING 5 LINES
+--------------------------------------------------------------------------------
+  50 | WARNING | MYSQLi function query() detected with dynamic parameter 
+ 140 | WARNING | MYSQLi function query() detected with dynamic parameter 
+ 227 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+ 270 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+ 291 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\hpp-1.php
+--------------------------------------------------------------------------------
+FOUND 2 ERRORS AFFECTING 2 LINES
+--------------------------------------------------------------------------------
+ 114 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 135 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\hpp-2.php
+--------------------------------------------------------------------------------
+FOUND 2 ERRORS AND 1 WARNING AFFECTING 3 LINES
+--------------------------------------------------------------------------------
+ 149 | WARNING | SQL function mysql_query() detected with dynamic parameter 
+ 229 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+ 250 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\hpp-3.php
+--------------------------------------------------------------------------------
+FOUND 2 ERRORS AND 1 WARNING AFFECTING 3 LINES
+--------------------------------------------------------------------------------
+  49 | WARNING | SQL function mysql_query() detected with dynamic parameter 
+ 176 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+ 197 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\htmli_current_url.php
+--------------------------------------------------------------------------------
+FOUND 2 ERRORS AFFECTING 2 LINES
+--------------------------------------------------------------------------------
+ 136 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 157 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\htmli_get.php
+--------------------------------------------------------------------------------
+FOUND 3 ERRORS AFFECTING 3 LINES
+--------------------------------------------------------------------------------
+ 113 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 177 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 198 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\htmli_post.php
+--------------------------------------------------------------------------------
+FOUND 3 ERRORS AFFECTING 3 LINES
+--------------------------------------------------------------------------------
+ 113 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 177 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 198 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\htmli_stored.php
+--------------------------------------------------------------------------------
+FOUND 3 ERRORS AND 3 WARNINGS AFFECTING 6 LINES
+--------------------------------------------------------------------------------
+  83 | WARNING | MYSQLi function query() detected with dynamic parameter 
+ 109 | WARNING | MYSQLi function query() detected with dynamic parameter 
+ 182 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+ 264 | WARNING | MYSQLi function query() detected with dynamic parameter 
+ 358 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+ 379 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\http_response_splitting.php
+--------------------------------------------------------------------------------
+FOUND 2 ERRORS AFFECTING 2 LINES
+--------------------------------------------------------------------------------
+ 133 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 154 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\http_verb_tampering.php
+--------------------------------------------------------------------------------
+FOUND 3 ERRORS AND 4 WARNINGS AFFECTING 7 LINES
+--------------------------------------------------------------------------------
+  63 | WARNING | MYSQLi function query() detected with dynamic parameter 
+  79 | WARNING | MYSQLi function query() detected with dynamic parameter 
+ 144 | WARNING | MYSQLi function query() detected with dynamic parameter 
+ 160 | WARNING | MYSQLi function query() detected with dynamic parameter 
+ 245 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+ 290 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+ 311 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\iframei.php
+--------------------------------------------------------------------------------
+FOUND 7 ERRORS AFFECTING 4 LINES
+--------------------------------------------------------------------------------
+ 126 | ERROR | Easy XSS detected because of direct user input with $_GET on
+     |       | echo
+ 126 | ERROR | Easy XSS detected because of direct user input with $_GET on
+     |       | echo
+ 135 | ERROR | Easy XSS detected because of direct user input with $_GET on
+     |       | echo
+ 135 | ERROR | Easy XSS detected because of direct user input with $_GET on
+     |       | echo
+ 135 | ERROR | Easy XSS detected because of direct user input with $_GET on
+     |       | echo
+ 167 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 188 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\information_disclosure_1.php
+--------------------------------------------------------------------------------
+FOUND 2 ERRORS AND 2 WARNINGS AFFECTING 4 LINES
+--------------------------------------------------------------------------------
+  30 | WARNING | phpinfo() function detected
+  45 | WARNING | phpinfo() function detected
+ 136 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+ 157 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\information_disclosure_2.php
+--------------------------------------------------------------------------------
+FOUND 2 ERRORS AFFECTING 2 LINES
+--------------------------------------------------------------------------------
+ 134 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 155 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\information_disclosure_3.php
+--------------------------------------------------------------------------------
+FOUND 2 ERRORS AND 4 WARNINGS AFFECTING 6 LINES
+--------------------------------------------------------------------------------
+ 125 | WARNING | Filesystem function is_file() detected with dynamic parameter
+ 131 | WARNING | Filesystem function fopen() detected with dynamic parameter
+ 133 | WARNING | Filesystem function feof() detected with dynamic parameter
+ 137 | WARNING | Filesystem function fgets() detected with dynamic parameter
+ 205 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+ 226 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\information_disclosure_4.php
+--------------------------------------------------------------------------------
+FOUND 2 ERRORS AFFECTING 2 LINES
+--------------------------------------------------------------------------------
+ 137 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 158 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\insecure_crypt_storage_1.php
+--------------------------------------------------------------------------------
+FOUND 2 ERRORS AND 1 WARNING AFFECTING 3 LINES
+--------------------------------------------------------------------------------
+  29 | WARNING | MYSQLi function query() detected with dynamic parameter 
+ 151 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+ 172 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\insecure_crypt_storage_2.php
+--------------------------------------------------------------------------------
+FOUND 4 ERRORS AND 3 WARNINGS AFFECTING 7 LINES
+--------------------------------------------------------------------------------
+  83 | WARNING | Filesystem function fputs() detected with dynamic parameter
+  84 | WARNING | Filesystem function fclose() detected with dynamic parameter
+ 101 | WARNING | Filesystem function unlink() detected with dynamic parameter
+ 164 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+ 212 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+ 253 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+ 274 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\insecure_crypt_storage_3.php
+--------------------------------------------------------------------------------
+FOUND 2 ERRORS AND 1 WARNING AFFECTING 3 LINES
+--------------------------------------------------------------------------------
+  29 | WARNING | MYSQLi function query() detected with dynamic parameter 
+ 149 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+ 170 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\insecure_direct_object_ref_1.php
+--------------------------------------------------------------------------------
+FOUND 3 ERRORS AND 2 WARNINGS AFFECTING 5 LINES
+--------------------------------------------------------------------------------
+  64 | WARNING | MYSQLi function query() detected with dynamic parameter 
+ 108 | WARNING | MYSQLi function query() detected with dynamic parameter 
+ 202 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+ 268 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+ 289 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\insecure_direct_object_ref_2.php
+--------------------------------------------------------------------------------
+FOUND 3 ERRORS AFFECTING 3 LINES
+--------------------------------------------------------------------------------
+  81 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 161 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 182 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\insecure_direct_object_ref_3.php
+--------------------------------------------------------------------------------
+FOUND 2 ERRORS AFFECTING 2 LINES
+--------------------------------------------------------------------------------
+ 127 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 148 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\insecure_iframe.php
+--------------------------------------------------------------------------------
+FOUND 2 ERRORS AFFECTING 2 LINES
+--------------------------------------------------------------------------------
+ 125 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 146 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\install.php
+--------------------------------------------------------------------------
+FOUND 0 ERRORS AND 9 WARNINGS AFFECTING 9 LINES
+--------------------------------------------------------------------------
+  46 | WARNING | MYSQLi function query() detected with dynamic parameter 
+  63 | WARNING | MYSQLi function query() detected with dynamic parameter 
+  77 | WARNING | MYSQLi function query() detected with dynamic parameter 
+  90 | WARNING | MYSQLi function query() detected with dynamic parameter 
+ 103 | WARNING | MYSQLi function query() detected with dynamic parameter 
+ 117 | WARNING | MYSQLi function query() detected with dynamic parameter 
+ 138 | WARNING | MYSQLi function query() detected with dynamic parameter 
+ 151 | WARNING | MYSQLi function query() detected with dynamic parameter 
+ 169 | WARNING | MYSQLi function query() detected with dynamic parameter 
+--------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\insuff_transp_layer_protect_1.php
+--------------------------------------------------------------------------------
+FOUND 2 ERRORS AFFECTING 2 LINES
+--------------------------------------------------------------------------------
+ 168 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 189 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\insuff_transp_layer_protect_2.php
+--------------------------------------------------------------------------------
+FOUND 2 ERRORS AFFECTING 2 LINES
+--------------------------------------------------------------------------------
+ 109 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 130 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\insuff_transp_layer_protect_3.php
+--------------------------------------------------------------------------------
+FOUND 2 ERRORS AFFECTING 2 LINES
+--------------------------------------------------------------------------------
+ 109 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 130 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\insuff_transp_layer_protect_4.php
+--------------------------------------------------------------------------------
+FOUND 2 ERRORS AFFECTING 2 LINES
+--------------------------------------------------------------------------------
+ 109 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 130 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\lang_en.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 1 | WARNING | No PHP code was found in this file and short open tags are not
+   |         | allowed by this install of PHP. This file may be using short
+   |         | open tags but PHP does not allow them.
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\lang_fr.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 1 | WARNING | No PHP code was found in this file and short open tags are not
+   |         | allowed by this install of PHP. This file may be using short
+   |         | open tags but PHP does not allow them.
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\lang_nl.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 1 | WARNING | No PHP code was found in this file and short open tags are not
+   |         | allowed by this install of PHP. This file may be using short
+   |         | open tags but PHP does not allow them.
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\ldapi.php
+--------------------------------------------------------------------------------
+FOUND 3 ERRORS AFFECTING 3 LINES
+--------------------------------------------------------------------------------
+ 198 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 343 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 364 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\ldap_connect.php
+--------------------------------------------------------------------------------
+FOUND 4 ERRORS AFFECTING 4 LINES
+--------------------------------------------------------------------------------
+ 262 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 313 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 358 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 379 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\lfi_sqlitemanager.php
+--------------------------------------------------------------------------------
+FOUND 2 ERRORS AFFECTING 2 LINES
+--------------------------------------------------------------------------------
+ 107 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 128 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\login.php
+--------------------------------------------------------------------------------
+FOUND 1 ERROR AND 1 WARNING AFFECTING 2 LINES
+--------------------------------------------------------------------------------
+  44 | WARNING | MYSQLi function query() detected with dynamic parameter 
+ 184 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\maili.php
+--------------------------------------------------------------------------------
+FOUND 3 ERRORS AFFECTING 3 LINES
+--------------------------------------------------------------------------------
+ 172 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 233 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 254 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\manual_interv.php
+--------------------------------------------------------------------------------
+FOUND 3 ERRORS AFFECTING 3 LINES
+--------------------------------------------------------------------------------
+ 109 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 148 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 169 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\password_change.php
+--------------------------------------------------------------------------------
+FOUND 3 ERRORS AND 2 WARNINGS AFFECTING 5 LINES
+--------------------------------------------------------------------------------
+  66 | WARNING | MYSQLi function query() detected with dynamic parameter 
+  93 | WARNING | MYSQLi function query() detected with dynamic parameter 
+ 180 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+ 228 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+ 249 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\phpi.php
+--------------------------------------------------------------------------------
+FOUND 4 ERRORS AFFECTING 4 LINES
+--------------------------------------------------------------------------------
+  78 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+  90 | ERROR | Please do not use eval() functions
+ 134 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 155 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\phpinfo.php
+----------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+----------------------------------------------------------------------
+ 19 | WARNING | phpinfo() function detected
+----------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\phpi_sqlitemanager.php
+--------------------------------------------------------------------------------
+FOUND 2 ERRORS AFFECTING 2 LINES
+--------------------------------------------------------------------------------
+ 107 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 128 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\php_cgi.php
+--------------------------------------------------------------------------------
+FOUND 2 ERRORS AFFECTING 2 LINES
+--------------------------------------------------------------------------------
+ 107 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 128 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\portal.php
+--------------------------------------------------------------------------------
+FOUND 3 ERRORS AFFECTING 3 LINES
+--------------------------------------------------------------------------------
+  99 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 172 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 193 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\reset.php
+--------------------------------------------------------------------------------
+FOUND 2 ERRORS AND 23 WARNINGS AFFECTING 25 LINES
+--------------------------------------------------------------------------------
+  55 | WARNING | Filesystem function file_exists() detected with dynamic
+     |         | parameter
+  58 | WARNING | Filesystem function unlink() detected with dynamic parameter
+  65 | WARNING | Filesystem function file_exists() detected with dynamic
+     |         | parameter
+  68 | WARNING | Filesystem function unlink() detected with dynamic parameter
+  75 | WARNING | Filesystem function file_exists() detected with dynamic
+     |         | parameter
+  78 | WARNING | Filesystem function unlink() detected with dynamic parameter
+  85 | WARNING | Filesystem function file_exists() detected with dynamic
+     |         | parameter
+  88 | WARNING | Filesystem function unlink() detected with dynamic parameter
+ 101 | WARNING | MYSQLi function query() detected with dynamic parameter 
+ 113 | WARNING | MYSQLi function query() detected with dynamic parameter 
+ 128 | WARNING | MYSQLi function query() detected with dynamic parameter 
+ 142 | WARNING | MYSQLi function query() detected with dynamic parameter 
+ 156 | WARNING | MYSQLi function query() detected with dynamic parameter 
+ 172 | WARNING | MYSQLi function query() detected with dynamic parameter 
+ 185 | WARNING | MYSQLi function query() detected with dynamic parameter 
+ 197 | WARNING | MYSQLi function query() detected with dynamic parameter 
+ 210 | WARNING | MYSQLi function query() detected with dynamic parameter 
+ 222 | WARNING | MYSQLi function query() detected with dynamic parameter 
+ 236 | WARNING | MYSQLi function query() detected with dynamic parameter 
+ 257 | WARNING | MYSQLi function query() detected with dynamic parameter 
+ 269 | WARNING | MYSQLi function query() detected with dynamic parameter 
+ 282 | WARNING | MYSQLi function query() detected with dynamic parameter 
+ 300 | WARNING | MYSQLi function query() detected with dynamic parameter 
+ 437 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+ 458 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\restrict_device_access.php
+--------------------------------------------------------------------------------
+FOUND 2 ERRORS AFFECTING 2 LINES
+--------------------------------------------------------------------------------
+ 193 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 214 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\restrict_folder_access.php
+--------------------------------------------------------------------------------
+FOUND 2 ERRORS AND 18 WARNINGS AFFECTING 20 LINES
+--------------------------------------------------------------------------------
+  40 | WARNING | Filesystem function is_file() detected with dynamic parameter
+  48 | WARNING | Filesystem function basename() detected with dynamic parameter
+  53 | WARNING | Filesystem function filesize() detected with dynamic parameter
+  59 | WARNING | Filesystem function readfile() detected with dynamic parameter
+ 136 | WARNING | Filesystem function file_exists() detected with dynamic
+     |         | parameter
+ 139 | WARNING | Filesystem function unlink() detected with dynamic parameter
+ 143 | WARNING | Filesystem function opendir() detected with dynamic parameter
+ 162 | WARNING | Filesystem function fopen() detected with dynamic parameter
+ 163 | WARNING | Filesystem function fputs() detected with dynamic parameter
+ 164 | WARNING | Filesystem function fclose() detected with dynamic parameter
+ 166 | WARNING | Filesystem function opendir() detected with dynamic parameter
+ 185 | WARNING | Filesystem function fopen() detected with dynamic parameter
+ 186 | WARNING | Filesystem function fputs() detected with dynamic parameter
+ 187 | WARNING | Filesystem function fclose() detected with dynamic parameter
+ 189 | WARNING | Filesystem function opendir() detected with dynamic parameter
+ 208 | WARNING | Filesystem function file_exists() detected with dynamic
+     |         | parameter
+ 211 | WARNING | Filesystem function unlink() detected with dynamic parameter
+ 215 | WARNING | Filesystem function opendir() detected with dynamic parameter
+ 261 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+ 282 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\rlfi.php
+--------------------------------------------------------------------------------
+FOUND 5 ERRORS AFFECTING 5 LINES
+--------------------------------------------------------------------------------
+ 119 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 167 | ERROR | No file extension has been found in a include/require function.
+     |       | This implies that some PHP code is not scanned by PHPCS.
+ 174 | ERROR | No file extension has been found in a include/require function.
+     |       | This implies that some PHP code is not scanned by PHPCS.
+ 207 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 228 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\secret.php
+-------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+-------------------------------------------------------------------------
+ 27 | WARNING | MYSQLi function query() detected with dynamic parameter 
+-------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\secret_change.php
+--------------------------------------------------------------------------------
+FOUND 3 ERRORS AND 2 WARNINGS AFFECTING 5 LINES
+--------------------------------------------------------------------------------
+  40 | WARNING | MYSQLi function query() detected with dynamic parameter 
+  71 | WARNING | MYSQLi function query() detected with dynamic parameter 
+ 154 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+ 200 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+ 221 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\secret_html.php
+--------------------------------------------------------------------------------
+FOUND 2 ERRORS AND 1 WARNING AFFECTING 3 LINES
+--------------------------------------------------------------------------------
+  30 | WARNING | MYSQLi function query() detected with dynamic parameter 
+ 134 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+ 155 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\security_level_set.php
+--------------------------------------------------------------------------------
+FOUND 3 ERRORS AFFECTING 3 LINES
+--------------------------------------------------------------------------------
+ 130 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 173 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 194 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\shellshock.php
+--------------------------------------------------------------------------------
+FOUND 2 ERRORS AFFECTING 2 LINES
+--------------------------------------------------------------------------------
+ 109 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 130 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\smgmt_admin_portal.php
+--------------------------------------------------------------------------------
+FOUND 2 ERRORS AFFECTING 2 LINES
+--------------------------------------------------------------------------------
+ 232 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 253 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\smgmt_cookies_httponly.php
+--------------------------------------------------------------------------------
+FOUND 3 ERRORS AFFECTING 3 LINES
+--------------------------------------------------------------------------------
+ 137 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 208 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 229 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\smgmt_cookies_secure.php
+--------------------------------------------------------------------------------
+FOUND 3 ERRORS AFFECTING 3 LINES
+--------------------------------------------------------------------------------
+ 144 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 218 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 239 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\smgmt_sessionid_url.php
+--------------------------------------------------------------------------------
+FOUND 2 ERRORS AFFECTING 2 LINES
+--------------------------------------------------------------------------------
+ 148 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 169 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\smgmt_strong_sessions.php
+--------------------------------------------------------------------------------
+FOUND 3 ERRORS AFFECTING 3 LINES
+--------------------------------------------------------------------------------
+ 186 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 258 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 279 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\sm_cors.php
+--------------------------------------------------------------------------------
+FOUND 2 ERRORS AFFECTING 2 LINES
+--------------------------------------------------------------------------------
+ 142 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 163 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\sm_cross_domain_policy.php
+--------------------------------------------------------------------------------
+FOUND 2 ERRORS AND 2 WARNINGS AFFECTING 4 LINES
+--------------------------------------------------------------------------------
+  25 | WARNING | Filesystem function fopen() detected with dynamic parameter
+  49 | WARNING | Filesystem function fwrite() detected with dynamic parameter
+ 137 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+ 158 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\sm_dos_1.php
+--------------------------------------------------------------------------------
+FOUND 2 ERRORS AFFECTING 2 LINES
+--------------------------------------------------------------------------------
+ 109 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 130 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\sm_dos_2.php
+--------------------------------------------------------------------------------
+FOUND 2 ERRORS AFFECTING 2 LINES
+--------------------------------------------------------------------------------
+ 149 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 170 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\sm_dos_3.php
+--------------------------------------------------------------------------------
+FOUND 2 ERRORS AFFECTING 2 LINES
+--------------------------------------------------------------------------------
+ 110 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 131 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\sm_dos_4.php
+--------------------------------------------------------------------------------
+FOUND 2 ERRORS AFFECTING 2 LINES
+--------------------------------------------------------------------------------
+ 109 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 130 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\sm_ftp.php
+--------------------------------------------------------------------------------
+FOUND 2 ERRORS AFFECTING 2 LINES
+--------------------------------------------------------------------------------
+ 109 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 130 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\sm_local_priv_esc_1.php
+--------------------------------------------------------------------------------
+FOUND 2 ERRORS AFFECTING 2 LINES
+--------------------------------------------------------------------------------
+ 109 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 130 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\sm_local_priv_esc_2.php
+--------------------------------------------------------------------------------
+FOUND 2 ERRORS AFFECTING 2 LINES
+--------------------------------------------------------------------------------
+ 107 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 128 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\sm_mitm_1.php
+--------------------------------------------------------------------------------
+FOUND 2 ERRORS AFFECTING 2 LINES
+--------------------------------------------------------------------------------
+ 168 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 189 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\sm_mitm_2.php
+--------------------------------------------------------------------------------
+FOUND 3 ERRORS AND 1 WARNING AFFECTING 4 LINES
+--------------------------------------------------------------------------------
+  48 | WARNING | MYSQLi function query() detected with dynamic parameter 
+ 168 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+ 208 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+ 229 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\sm_obu_files.php
+--------------------------------------------------------------------------------
+FOUND 2 ERRORS AFFECTING 2 LINES
+--------------------------------------------------------------------------------
+ 120 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 141 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\sm_robots.php
+--------------------------------------------------------------------------------
+FOUND 2 ERRORS AND 4 WARNINGS AFFECTING 6 LINES
+--------------------------------------------------------------------------------
+ 125 | WARNING | Filesystem function is_file() detected with dynamic parameter
+ 131 | WARNING | Filesystem function fopen() detected with dynamic parameter
+ 133 | WARNING | Filesystem function feof() detected with dynamic parameter
+ 137 | WARNING | Filesystem function fgets() detected with dynamic parameter
+ 205 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+ 226 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\sm_samba.php
+--------------------------------------------------------------------------------
+FOUND 2 ERRORS AFFECTING 2 LINES
+--------------------------------------------------------------------------------
+ 109 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 130 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\sm_snmp.php
+--------------------------------------------------------------------------------
+FOUND 2 ERRORS AFFECTING 2 LINES
+--------------------------------------------------------------------------------
+ 109 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 130 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\sm_webdav.php
+--------------------------------------------------------------------------------
+FOUND 2 ERRORS AFFECTING 2 LINES
+--------------------------------------------------------------------------------
+ 109 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 130 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\sm_xst.php
+--------------------------------------------------------------------------------
+FOUND 2 ERRORS AFFECTING 2 LINES
+--------------------------------------------------------------------------------
+ 108 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 129 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\soap\class.soapclient.php
+----------------------------------------------------------------------
+FOUND 2 ERRORS AFFECTING 2 LINES
+----------------------------------------------------------------------
+ 710 | ERROR | Please do not use eval() functions
+ 712 | ERROR | Please do not use eval() functions
+----------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\soap\class.soap_server.php
+--------------------------------------------------------------------------------
+FOUND 1 ERROR AND 7 WARNINGS AFFECTING 6 LINES
+--------------------------------------------------------------------------------
+ 281 | WARNING | Filesystem function fopen() detected with dynamic parameter
+ 282 | WARNING | Filesystem function fpassthru() detected with dynamic
+     |         | parameter
+ 556 | WARNING | Function handling function function_exists() detected with
+     |         | dynamic parameter
+ 615 | ERROR   | Please do not use eval() functions
+ 629 | WARNING | Function call_user_func_array() that supports callback
+     |         | detected
+ 629 | WARNING | Function handling function call_user_func_array() detected
+     |         | with dynamic parameter
+ 631 | WARNING | Function call_user_func_array() that supports callback
+     |         | detected
+ 631 | WARNING | Function handling function call_user_func_array() detected
+     |         | with dynamic parameter
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\soap\class.soap_transport_http.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 15 WARNINGS AFFECTING 15 LINES
+--------------------------------------------------------------------------------
+ 202 | WARNING | Filesystem function feof() detected with dynamic parameter
+ 206 | WARNING | Filesystem function fclose() detected with dynamic parameter
+ 746 | WARNING | Filesystem function fputs() detected with dynamic parameter
+ 803 | WARNING | Filesystem function feof() detected with dynamic parameter
+ 811 | WARNING | Filesystem function fgets() detected with dynamic parameter
+ 885 | WARNING | Filesystem function fgets() detected with dynamic parameter
+ 899 | WARNING | Filesystem function feof() detected with dynamic parameter
+ 901 | WARNING | Filesystem function fread() detected with dynamic parameter
+ 904 | WARNING | Filesystem function feof() detected with dynamic parameter
+ 915 | WARNING | Filesystem function fgets() detected with dynamic parameter
+ 926 | WARNING | Filesystem function feof() detected with dynamic parameter
+ 927 | WARNING | Filesystem function feof() detected with dynamic parameter
+ 937 | WARNING | Filesystem function feof() detected with dynamic parameter
+ 938 | WARNING | Filesystem function fclose() detected with dynamic parameter
+ 963 | WARNING | Filesystem function curl_exec() detected with dynamic
+     |         | parameter
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\soap\class.wsdl.php
+------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 3 WARNINGS AFFECTING 3 LINES
+------------------------------------------------------------------------------
+ 242 | WARNING | Filesystem function fopen() detected with dynamic parameter
+ 244 | WARNING | Filesystem function fread() detected with dynamic parameter
+ 247 | WARNING | Filesystem function fclose() detected with dynamic parameter
+------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\soap\class.wsdlcache.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 17 WARNINGS AFFECTING 16 LINES
+--------------------------------------------------------------------------------
+  86 | WARNING | Filesystem function file_exists() detected with dynamic
+     |         | parameter
+  86 | WARNING | Filesystem function filemtime() detected with dynamic
+     |         | parameter
+  87 | WARNING | Filesystem function unlink() detected with dynamic parameter
+  94 | WARNING | Filesystem function file_exists() detected with dynamic
+     |         | parameter
+  99 | WARNING | Filesystem function fopen() detected with dynamic parameter
+ 101 | WARNING | Filesystem function file() detected with dynamic parameter
+ 102 | WARNING | Filesystem function fclose() detected with dynamic parameter
+ 129 | WARNING | Filesystem function fopen() detected with dynamic parameter
+ 131 | WARNING | Filesystem function flock() detected with dynamic parameter
+ 133 | WARNING | Filesystem function flock() detected with dynamic parameter
+ 148 | WARNING | Filesystem function fopen() detected with dynamic parameter
+ 154 | WARNING | Filesystem function fputs() detected with dynamic parameter
+ 155 | WARNING | Filesystem function fclose() detected with dynamic parameter
+ 173 | WARNING | Filesystem function flock() detected with dynamic parameter
+ 174 | WARNING | Filesystem function fclose() detected with dynamic parameter
+ 191 | WARNING | Filesystem function file_exists() detected with dynamic
+     |         | parameter
+ 197 | WARNING | Filesystem function unlink() detected with dynamic parameter
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\soap\class.xmlschema.php
+---------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+---------------------------------------------------------------------------
+ 90 | WARNING | Filesystem function file() detected with dynamic parameter
+---------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\soap\nusoap.php
+--------------------------------------------------------------------------------
+FOUND 3 ERRORS AND 26 WARNINGS AFFECTING 27 LINES
+--------------------------------------------------------------------------------
+ 1170 | WARNING | Filesystem function file() detected with dynamic parameter
+ 2356 | WARNING | Filesystem function feof() detected with dynamic parameter
+ 2360 | WARNING | Filesystem function fclose() detected with dynamic parameter
+ 2900 | WARNING | Filesystem function fputs() detected with dynamic parameter
+ 2957 | WARNING | Filesystem function feof() detected with dynamic parameter
+ 2965 | WARNING | Filesystem function fgets() detected with dynamic parameter
+ 3039 | WARNING | Filesystem function fgets() detected with dynamic parameter
+ 3053 | WARNING | Filesystem function feof() detected with dynamic parameter
+ 3055 | WARNING | Filesystem function fread() detected with dynamic parameter
+ 3058 | WARNING | Filesystem function feof() detected with dynamic parameter
+ 3069 | WARNING | Filesystem function fgets() detected with dynamic parameter
+ 3080 | WARNING | Filesystem function feof() detected with dynamic parameter
+ 3081 | WARNING | Filesystem function feof() detected with dynamic parameter
+ 3091 | WARNING | Filesystem function feof() detected with dynamic parameter
+ 3092 | WARNING | Filesystem function fclose() detected with dynamic parameter
+ 3117 | WARNING | Filesystem function curl_exec() detected with dynamic
+      |         | parameter
+ 3739 | WARNING | Filesystem function fopen() detected with dynamic parameter
+ 3740 | WARNING | Filesystem function fpassthru() detected with dynamic
+      |         | parameter
+ 4014 | WARNING | Function handling function function_exists() detected with
+      |         | dynamic parameter
+ 4073 | ERROR   | Please do not use eval() functions
+ 4087 | WARNING | Function call_user_func_array() that supports callback
+      |         | detected
+ 4087 | WARNING | Function handling function call_user_func_array() detected
+      |         | with dynamic parameter
+ 4089 | WARNING | Function call_user_func_array() that supports callback
+      |         | detected
+ 4089 | WARNING | Function handling function call_user_func_array() detected
+      |         | with dynamic parameter
+ 4824 | WARNING | Filesystem function fopen() detected with dynamic parameter
+ 4826 | WARNING | Filesystem function fread() detected with dynamic parameter
+ 4829 | WARNING | Filesystem function fclose() detected with dynamic parameter
+ 7867 | ERROR   | Please do not use eval() functions
+ 7869 | ERROR   | Please do not use eval() functions
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\soap\nusoapmime.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 8 WARNINGS AFFECTING 6 LINES
+--------------------------------------------------------------------------------
+ 154 | WARNING | Filesystem function fopen() detected with dynamic parameter
+ 155 | WARNING | Filesystem function fread() detected with dynamic parameter
+ 155 | WARNING | Filesystem function filesize() detected with dynamic parameter
+ 156 | WARNING | Filesystem function fclose() detected with dynamic parameter
+ 384 | WARNING | Filesystem function fopen() detected with dynamic parameter
+ 385 | WARNING | Filesystem function fread() detected with dynamic parameter
+ 385 | WARNING | Filesystem function filesize() detected with dynamic parameter
+ 386 | WARNING | Filesystem function fclose() detected with dynamic parameter
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\sqli_1.php
+--------------------------------------------------------------------------------
+FOUND 3 ERRORS AND 1 WARNING AFFECTING 4 LINES
+--------------------------------------------------------------------------------
+ 112 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+ 145 | WARNING | SQL function mysql_query() detected with dynamic parameter 
+ 267 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+ 288 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\sqli_10-1.php
+--------------------------------------------------------------------------------
+FOUND 2 ERRORS AFFECTING 2 LINES
+--------------------------------------------------------------------------------
+ 169 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 190 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\sqli_10-2.php
+----------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+----------------------------------------------------------------------------
+ 67 | WARNING | SQL function mysql_query() detected with dynamic parameter 
+----------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\sqli_11.php
+--------------------------------------------------------------------------------
+FOUND 3 ERRORS AFFECTING 3 LINES
+--------------------------------------------------------------------------------
+ 120 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 254 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 275 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\sqli_12.php
+--------------------------------------------------------------------------------
+FOUND 3 ERRORS AFFECTING 3 LINES
+--------------------------------------------------------------------------------
+ 124 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 321 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 342 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\sqli_13-ps.php
+--------------------------------------------------------------------------------
+FOUND 3 ERRORS AND 2 WARNINGS AFFECTING 5 LINES
+--------------------------------------------------------------------------------
+  37 | WARNING | MYSQLi function query() detected with dynamic parameter 
+  94 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+ 144 | WARNING | MYSQLi function prepare() detected with dynamic parameter 
+ 296 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+ 317 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\sqli_13.php
+--------------------------------------------------------------------------------
+FOUND 3 ERRORS AND 2 WARNINGS AFFECTING 5 LINES
+--------------------------------------------------------------------------------
+  37 | WARNING | SQL function mysql_query() detected with dynamic parameter 
+ 121 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+ 177 | WARNING | SQL function mysql_query() detected with dynamic parameter 
+ 297 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+ 318 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\sqli_14.php
+--------------------------------------------------------------------------------
+FOUND 3 ERRORS AFFECTING 3 LINES
+--------------------------------------------------------------------------------
+ 117 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 193 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 214 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\sqli_15.php
+--------------------------------------------------------------------------------
+FOUND 3 ERRORS AND 3 WARNINGS AFFECTING 6 LINES
+--------------------------------------------------------------------------------
+  26 | WARNING | Please do not disable error_reporting, it could be useful
+  67 | WARNING | SQL function mysql_query() detected with dynamic parameter 
+  80 | WARNING | SQL function mysql_query() detected with dynamic parameter 
+ 164 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+ 204 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+ 225 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\sqli_16.php
+--------------------------------------------------------------------------------
+FOUND 3 ERRORS AND 1 WARNING AFFECTING 4 LINES
+--------------------------------------------------------------------------------
+ 119 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+ 148 | WARNING | SQL function mysql_query() detected with dynamic parameter 
+ 213 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+ 234 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\sqli_17.php
+--------------------------------------------------------------------------------
+FOUND 2 ERRORS AND 4 WARNINGS AFFECTING 6 LINES
+--------------------------------------------------------------------------------
+  97 | WARNING | MYSQLi function query() detected with dynamic parameter 
+ 110 | WARNING | Filesystem function fputs() detected with dynamic parameter
+ 111 | WARNING | Filesystem function fclose() detected with dynamic parameter
+ 116 | WARNING | MYSQLi function query() detected with dynamic parameter 
+ 244 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+ 265 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\sqli_2-ps.php
+--------------------------------------------------------------------------------
+FOUND 3 ERRORS AND 2 WARNINGS AFFECTING 5 LINES
+--------------------------------------------------------------------------------
+  37 | WARNING | MYSQLi function query() detected with dynamic parameter 
+  94 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+ 144 | WARNING | MYSQLi function prepare() detected with dynamic parameter 
+ 296 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+ 317 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\sqli_2.php
+--------------------------------------------------------------------------------
+FOUND 3 ERRORS AND 2 WARNINGS AFFECTING 5 LINES
+--------------------------------------------------------------------------------
+  37 | WARNING | SQL function mysql_query() detected with dynamic parameter 
+ 121 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+ 177 | WARNING | SQL function mysql_query() detected with dynamic parameter 
+ 297 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+ 318 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\sqli_3.php
+--------------------------------------------------------------------------------
+FOUND 3 ERRORS AND 1 WARNING AFFECTING 4 LINES
+--------------------------------------------------------------------------------
+ 116 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+ 144 | WARNING | SQL function mysql_query() detected with dynamic parameter 
+ 209 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+ 230 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\sqli_4.php
+--------------------------------------------------------------------------------
+FOUND 3 ERRORS AND 1 WARNING AFFECTING 4 LINES
+--------------------------------------------------------------------------------
+ 112 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+ 133 | WARNING | SQL function mysql_query() detected with dynamic parameter 
+ 187 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+ 208 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\sqli_5.php
+--------------------------------------------------------------------------------
+FOUND 3 ERRORS AND 1 WARNING AFFECTING 4 LINES
+--------------------------------------------------------------------------------
+ 112 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+ 123 | WARNING | SQL function mysql_query() detected with dynamic parameter 
+ 192 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+ 213 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\sqli_6.php
+--------------------------------------------------------------------------------
+FOUND 3 ERRORS AND 1 WARNING AFFECTING 4 LINES
+--------------------------------------------------------------------------------
+ 112 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+ 145 | WARNING | SQL function mysql_query() detected with dynamic parameter 
+ 267 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+ 288 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\sqli_7.php
+--------------------------------------------------------------------------------
+FOUND 3 ERRORS AND 2 WARNINGS AFFECTING 5 LINES
+--------------------------------------------------------------------------------
+ 118 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+ 145 | WARNING | MYSQLi function query() detected with dynamic parameter 
+ 187 | WARNING | MYSQLi function query() detected with dynamic parameter 
+ 301 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+ 322 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\sqli_8-1.php
+--------------------------------------------------------------------------------
+FOUND 2 ERRORS AFFECTING 2 LINES
+--------------------------------------------------------------------------------
+ 127 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 148 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\sqli_8-2.php
+-------------------------------------------------------------------------
+FOUND 0 ERRORS AND 2 WARNINGS AFFECTING 2 LINES
+-------------------------------------------------------------------------
+ 48 | WARNING | MYSQLi function query() detected with dynamic parameter 
+ 94 | WARNING | MYSQLi function query() detected with dynamic parameter 
+-------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\sqli_9.php
+--------------------------------------------------------------------------------
+FOUND 3 ERRORS AND 1 WARNING AFFECTING 4 LINES
+--------------------------------------------------------------------------------
+ 142 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+ 183 | WARNING | SQL function mysql_query() detected with dynamic parameter 
+ 305 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+ 326 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\sqli_drupal.php
+--------------------------------------------------------------------------------
+FOUND 2 ERRORS AFFECTING 2 LINES
+--------------------------------------------------------------------------------
+ 107 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 128 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\ssii.php
+--------------------------------------------------------------------------------
+FOUND 3 ERRORS AND 2 WARNINGS AFFECTING 5 LINES
+--------------------------------------------------------------------------------
+  78 | WARNING | Filesystem function fputs() detected with dynamic parameter
+  79 | WARNING | Filesystem function fclose() detected with dynamic parameter
+ 146 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+ 202 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+ 223 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\ssrf.php
+--------------------------------------------------------------------------------
+FOUND 2 ERRORS AFFECTING 2 LINES
+--------------------------------------------------------------------------------
+ 118 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 139 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\test.php
+--------------------------------------------------------------------------------
+FOUND 1 ERROR AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 19 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+    |       | echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\unrestricted_file_upload.php
+--------------------------------------------------------------------------------
+FOUND 9 ERRORS AFFECTING 8 LINES
+--------------------------------------------------------------------------------
+  34 | ERROR | Filesystem function move_uploaded_file() detected with dynamic
+     |       | parameter directly from user input
+  45 | ERROR | Filesystem function move_uploaded_file() detected with dynamic
+     |       | parameter directly from user input
+  58 | ERROR | Filesystem function move_uploaded_file() detected with dynamic
+     |       | parameter directly from user input
+  66 | ERROR | Filesystem function move_uploaded_file() detected with dynamic
+     |       | parameter directly from user input
+ 129 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 150 | ERROR | HTML construction with direct user input $_FILES detected.
+ 150 | ERROR | Easy XSS detected because of direct user input with $_FILES on
+     |       | echo
+ 189 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 210 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\unvalidated_redir_fwd_1.php
+--------------------------------------------------------------------------------
+FOUND 3 ERRORS AFFECTING 3 LINES
+--------------------------------------------------------------------------------
+ 145 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 212 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 233 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\unvalidated_redir_fwd_2.php
+--------------------------------------------------------------------------------
+FOUND 2 ERRORS AFFECTING 2 LINES
+--------------------------------------------------------------------------------
+ 127 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 148 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\user_activation.php
+-------------------------------------------------------------------------
+FOUND 0 ERRORS AND 2 WARNINGS AFFECTING 2 LINES
+-------------------------------------------------------------------------
+ 37 | WARNING | MYSQLi function query() detected with dynamic parameter 
+ 64 | WARNING | MYSQLi function query() detected with dynamic parameter 
+-------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\user_extra.php
+--------------------------------------------------------------------------------
+FOUND 3 ERRORS AND 3 WARNINGS AFFECTING 6 LINES
+--------------------------------------------------------------------------------
+ 114 | WARNING | MYSQLi function query() detected with dynamic parameter 
+ 145 | WARNING | MYSQLi function query() detected with dynamic parameter 
+ 212 | WARNING | MYSQLi function query() detected with dynamic parameter 
+ 310 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+ 400 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+ 421 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\user_new.php
+--------------------------------------------------------------------------------
+FOUND 1 ERROR AND 3 WARNINGS AFFECTING 4 LINES
+--------------------------------------------------------------------------------
+ 111 | WARNING | MYSQLi function query() detected with dynamic parameter 
+ 142 | WARNING | MYSQLi function query() detected with dynamic parameter 
+ 209 | WARNING | MYSQLi function query() detected with dynamic parameter 
+ 303 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\ws_soap.php
+---------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+---------------------------------------------------------------------------
+ 9 | WARNING | SQL function mysql_query() detected with dynamic parameter 
+---------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\xmli_1.php
+--------------------------------------------------------------------------------
+FOUND 3 ERRORS AFFECTING 3 LINES
+--------------------------------------------------------------------------------
+ 222 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 266 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 287 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\xmli_2.php
+--------------------------------------------------------------------------------
+FOUND 3 ERRORS AFFECTING 3 LINES
+--------------------------------------------------------------------------------
+ 118 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 254 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 275 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\xss_ajax_1-1.php
+--------------------------------------------------------------------------------
+FOUND 2 ERRORS AFFECTING 2 LINES
+--------------------------------------------------------------------------------
+ 113 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 134 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\xss_ajax_2-1.php
+--------------------------------------------------------------------------------
+FOUND 2 ERRORS AFFECTING 2 LINES
+--------------------------------------------------------------------------------
+ 228 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 249 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\xss_back_button.php
+--------------------------------------------------------------------------------
+FOUND 4 ERRORS AFFECTING 3 LINES
+--------------------------------------------------------------------------------
+ 113 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 113 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 142 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 163 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\xss_custom_header.php
+--------------------------------------------------------------------------------
+FOUND 2 ERRORS AFFECTING 2 LINES
+--------------------------------------------------------------------------------
+ 159 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 180 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\xss_eval.php
+--------------------------------------------------------------------------------
+FOUND 4 ERRORS AFFECTING 4 LINES
+--------------------------------------------------------------------------------
+ 240 | ERROR | Easy XSS detected because of direct user input with $_GET on
+     |       | echo
+ 261 | ERROR | Easy XSS detected because of direct user input with $_GET on
+     |       | echo
+ 306 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 327 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\xss_get.php
+--------------------------------------------------------------------------------
+FOUND 3 ERRORS AFFECTING 3 LINES
+--------------------------------------------------------------------------------
+ 113 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 177 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 198 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\xss_href-1.php
+--------------------------------------------------------------------------------
+FOUND 2 ERRORS AFFECTING 2 LINES
+--------------------------------------------------------------------------------
+ 114 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 135 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\xss_href-2.php
+--------------------------------------------------------------------------------
+FOUND 2 ERRORS AND 1 WARNING AFFECTING 3 LINES
+--------------------------------------------------------------------------------
+ 149 | WARNING | SQL function mysql_query() detected with dynamic parameter 
+ 229 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+ 250 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\xss_href-3.php
+--------------------------------------------------------------------------------
+FOUND 2 ERRORS AND 1 WARNING AFFECTING 3 LINES
+--------------------------------------------------------------------------------
+  49 | WARNING | SQL function mysql_query() detected with dynamic parameter 
+ 176 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+ 197 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\xss_json.php
+--------------------------------------------------------------------------------
+FOUND 3 ERRORS AFFECTING 3 LINES
+--------------------------------------------------------------------------------
+ 114 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 165 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 186 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\xss_login.php
+--------------------------------------------------------------------------------
+FOUND 3 ERRORS AND 1 WARNING AFFECTING 4 LINES
+--------------------------------------------------------------------------------
+ 116 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+ 144 | WARNING | SQL function mysql_query() detected with dynamic parameter 
+ 209 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+ 230 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\xss_phpmyadmin.php
+--------------------------------------------------------------------------------
+FOUND 2 ERRORS AFFECTING 2 LINES
+--------------------------------------------------------------------------------
+ 107 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 128 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\xss_php_self.php
+--------------------------------------------------------------------------------
+FOUND 3 ERRORS AFFECTING 3 LINES
+--------------------------------------------------------------------------------
+ 113 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 177 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 198 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\xss_post.php
+--------------------------------------------------------------------------------
+FOUND 3 ERRORS AFFECTING 3 LINES
+--------------------------------------------------------------------------------
+ 113 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 177 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 198 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\xss_referer.php
+--------------------------------------------------------------------------------
+FOUND 2 ERRORS AFFECTING 2 LINES
+--------------------------------------------------------------------------------
+ 159 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 180 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\xss_sqlitemanager.php
+--------------------------------------------------------------------------------
+FOUND 2 ERRORS AFFECTING 2 LINES
+--------------------------------------------------------------------------------
+ 107 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 128 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\xss_stored_1.php
+--------------------------------------------------------------------------------
+FOUND 3 ERRORS AND 3 WARNINGS AFFECTING 6 LINES
+--------------------------------------------------------------------------------
+  83 | WARNING | MYSQLi function query() detected with dynamic parameter 
+ 109 | WARNING | MYSQLi function query() detected with dynamic parameter 
+ 182 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+ 264 | WARNING | MYSQLi function query() detected with dynamic parameter 
+ 380 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+ 401 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\xss_stored_2.php
+--------------------------------------------------------------------------------
+FOUND 3 ERRORS AFFECTING 3 LINES
+--------------------------------------------------------------------------------
+ 146 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 191 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 212 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\xss_stored_3.php
+--------------------------------------------------------------------------------
+FOUND 3 ERRORS AND 2 WARNINGS AFFECTING 5 LINES
+--------------------------------------------------------------------------------
+  97 | WARNING | MYSQLi function query() detected with dynamic parameter 
+ 141 | WARNING | MYSQLi function query() detected with dynamic parameter 
+ 235 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+ 301 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+ 322 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\xss_stored_4.php
+--------------------------------------------------------------------------------
+FOUND 2 ERRORS AND 4 WARNINGS AFFECTING 6 LINES
+--------------------------------------------------------------------------------
+  63 | WARNING | MYSQLi function query() detected with dynamic parameter 
+  76 | WARNING | Filesystem function fputs() detected with dynamic parameter
+  77 | WARNING | Filesystem function fclose() detected with dynamic parameter
+  82 | WARNING | MYSQLi function query() detected with dynamic parameter 
+ 210 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+ 231 | ERROR   | Easy XSS detected because of direct user input with $_SERVER
+     |         | on echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\xss_user_agent.php
+--------------------------------------------------------------------------------
+FOUND 2 ERRORS AFFECTING 2 LINES
+--------------------------------------------------------------------------------
+ 159 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 180 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\xxe-1.php
+--------------------------------------------------------------------------------
+FOUND 2 ERRORS AFFECTING 2 LINES
+--------------------------------------------------------------------------------
+ 127 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+ 148 | ERROR | Easy XSS detected because of direct user input with $_SERVER on
+     |       | echo
+--------------------------------------------------------------------------------
+
+
+FILE: C:\xampp\htdocs\bWAPP\xxe-2.php
+-------------------------------------------------------------------------
+FOUND 0 ERRORS AND 2 WARNINGS AFFECTING 2 LINES
+-------------------------------------------------------------------------
+ 51 | WARNING | MYSQLi function query() detected with dynamic parameter 
+ 97 | WARNING | MYSQLi function query() detected with dynamic parameter 
+-------------------------------------------------------------------------
+
+Time: 1.99 secs; Memory: 80MB
